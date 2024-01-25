@@ -1,1 +1,2 @@
-# comandos gitg
+# comandos git
+git add . adicionar arquivos
